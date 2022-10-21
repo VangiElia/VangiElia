@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @VangiElia
 - 👀 I’m interested in forest modeling and remote sensing analysis
-- 🌱 I’m currently learning the R language
+- 🌱 I mainly work with the R programming language
 
 
 <!---
